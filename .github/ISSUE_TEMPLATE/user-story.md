@@ -14,7 +14,7 @@ assignees: ''
  ### Details and Assumptions
  * [document what you know]
    
- ### Acceptance Criteria  
+ ### Acceptance Criteria  - definition of done
    
  ```gherkin
  Given [some context]
